@@ -12,3 +12,4 @@ v1 was in MATLAB with 12 participants. v2 aims to fix its limitations:
 ## Status
 - [x] Project setup
 - [x] Load and plot one walking trial
+- [x] Detect individual steps (heel strike, toe-off) and compute stance, swing and stride time
